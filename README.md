@@ -1,1 +1,1 @@
-# angular-training
+# Angular 練習用
